@@ -22,7 +22,7 @@ Send spam or malicious content
 Attempt to exploit, hack, or disrupt the Bots or servers
 
 5. Data and Privacy
-The Bots may collect data such as Discord usernames, user IDs, and command usage logs to function properly. Please refer to the Privacy Policy for details.
+The Bots may collect data such as Discord usernames, user & server IDs, and command usage logs to function properly. Please refer to the Privacy Policy for details.
 
 6. No Warranty
 The Bots are provided "as is" without warranty of any kind. The developer does not guarantee uptime, accuracy, or performance.
@@ -35,6 +35,3 @@ I reserve the right to modify these Terms at any time. Continued use of the Bots
 
 9. Discontinuation
 I reserve the right to modify, suspend, or discontinue the Bots at any time without prior notice.
-
-10. Contact
-For questions or concerns, contact me on Discord: kenanidk
